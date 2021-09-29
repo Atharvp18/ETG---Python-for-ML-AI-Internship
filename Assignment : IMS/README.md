@@ -1,5 +1,5 @@
 # IMS 
-This project is made by Atharv Patil (me), Krishna Shreeram (https://github.com/Krrishnaa25) and Gaurav Bhanot (https://github.com/gb07bh)<br> for Elite Techno Groups Internship Program.<Br><br>
+This project is made by Atharv Patil (me), Krishna Shreeram (https://github.com/Krrishnaa25) and Gaurav Bhanot (https://github.com/gb07bh)<br> for Elite Techno Groups Internship Program.<br><br>
 This is an Inventory Management System that provides us the following functions : <br>
 1. Categorized our inventory.<br> 
 2. Displaying the items available in the store.<br> 
